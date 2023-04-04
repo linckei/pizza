@@ -1,0 +1,12 @@
+.margins {
+    margin-top: 75px;
+}
+body {
+    background-color: #16191b;
+}
+.hover_1 {
+    color: white;
+}
+.hover_1:hover {
+    color: red;
+}
